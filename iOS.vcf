@@ -1,0 +1,25 @@
+BEGIN:VCARD
+VERSION:3.0
+N:;okpebbs;;;
+FN:okpebbs
+ORG:OKPEBBS;
+NICKNAME:pebbles\, pebbs\, El Pebberino
+BDAY;VALUE=date:1986-07-03
+NOTE:photographer\nline-cook\n\nknife sharpening\n
+item1.TEL;TYPE=pref:+1 (310) 560-0319
+item1.X-ABLABEL:Verizon (iOS)
+item2.URL;TYPE=pref:https://okpebbs.com
+item2.X-ABLABEL:_$!<HomePage>!$_
+URL;TYPE=WORK:https://photos.okpebbs.com
+item3.EMAIL;TYPE=pref;TYPE=INTERNET:letsgo@okpebbs.com
+item3.X-ABLABEL:Email
+item4.EMAIL;TYPE=INTERNET:team@okpebbs.com
+item4.X-ABLABEL:Email
+item5.EMAIL;TYPE=INTERNET:okpebbs@okpebbs.com
+item5.X-ABLABEL:Email
+EMAIL;TYPE=WORK;TYPE=INTERNET:pebbs@okpebbs.com
+EMAIL;TYPE=WORK;TYPE=INTERNET:hello@okpebbs.com
+X-SOCIALPROFILE;X-USER=okpebbs;TYPE=twitter:https://twitter.com/okpebbs
+PRODID:-//Apple Inc.//iCloud Web Address Book 2213B3//EN
+REV:2022-04-27T15:42:56Z
+END:VCARD
